@@ -1,5 +1,5 @@
-src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git;main
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main
+src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git;main
 src-git lucky https://github.com/gdy666/luci-app-lucky.git
 src-git packages https://github.com/immortalwrt/packages.git^fc5c6d19bc1e63affa36dc2d9107873469f96311
 src-git luci https://github.com/immortalwrt/luci.git^7ce5799365f2ba329825a169b507718359303191
